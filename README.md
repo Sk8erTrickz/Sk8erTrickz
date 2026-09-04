@@ -14,3 +14,9 @@
    <p> ${\color{#6f2222}ᴘʀᴏɴᴏᴜɴs}$</p>
       <p> ${\color{#6f2222}𝙎𝙃𝙀/𝘼𝙉𝙔}$ </p>
 </table> 
+
+
+<p align="center"> <a href="CRYSTAL-CRIMINAL">
+ <img src="https://github.com/user-attachments/assets/9fa55c75-cef9-42a8-838f-4dce2949f2ce" width="400">
+
+ 
