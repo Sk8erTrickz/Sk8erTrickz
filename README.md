@@ -19,3 +19,8 @@
 <p align="center"> <a href="https://github.com/shurilong">
  <img src="https://github.com/user-attachments/assets/9fa55c75-cef9-42a8-838f-4dce2949f2ce" width="250"><p align="center"><a href="https://github.com/kitsunekozz">
  <img src="https://github.com/user-attachments/assets/9b01a1d5-1697-40b9-9f7f-cc999038cbfc" width="250">
+
+<div style="display: flex; gap: 24px;">
+  <img src="https://github.com/user-attachments/assets/9fa55c75-cef9-42a8-838f-4dce2949f2ce" width="23%">
+  <img src="https://github.com/user-attachments/assets/9b01a1d5-1697-40b9-9f7f-cc999038cbfc" width="23%">
+</div>
