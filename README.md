@@ -21,3 +21,4 @@
 <a href="https://github.com/kitsunekozz">
  <img src="https://github.com/user-attachments/assets/9b01a1d5-1697-40b9-9f7f-cc999038cbfc" width="250">
 </div>
+<h6> ${\color{#6f2222}↑𝘢𝘳𝘵}$ ${\color{#6f2222}𝘣𝘺}$ ${\color{#6f2222}𝘴𝘤𝘢𝘨𝘴𝘢𝘶𝘳𝘶𝘴}$ ${\color{#6f2222}𝘰𝘯}$ ${\color{#6f2222}𝘱𝘪𝘯𝘵𝘦𝘳𝘦𝘴𝘵↑}$</h6>
